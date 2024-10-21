@@ -24,16 +24,16 @@ Welcome to the **ESNcard Status Checker**! This Google Apps Script adds a custom
     
 2.  **Go to the menu bar** and click on Extensions ➡️ Apps Script.
     
-3.  javascriptCode kopiëren// (Insert full Apps Script code here)
+3.  [Add "Code.gs" file](https://github.com/Pieter-JanRoggeman/ESNcardTool/blob/main/Code.gs) 
     
-4.  **Save the script** by clicking the disk icon 💾 at the top.
+5.  **Save the script** by clicking the disk icon 💾 at the top.
     
 
 ### Step 2: Create the Sidebar HTML File
 
 1.  In the Apps Script editor, click on the **plus (+)** sign next to Files 📂 and select HTML.
     
-2.  htmlCode kopiëren// (Insert the full Sidebar HTML code here)
+2.  [Add "Sidebar.html" file](https://github.com/Pieter-JanRoggeman/ESNcardTool/blob/main/Sidebar.html)
     
 3.  **Save the HTML file** as well.
     
@@ -42,7 +42,7 @@ Welcome to the **ESNcard Status Checker**! This Google Apps Script adds a custom
 
 1.  **Refresh your Google Spreadsheet**.
     
-2.  You will see a new menu called ESNcard Checker at the top of the sheet.
+2.  You will see a new menu called "ESNcard Checker" at the top of the sheet.
     
 3.  Click on ESNcard Checker ➡️ Open Sidebar to launch the ESNcard status checker!
     
